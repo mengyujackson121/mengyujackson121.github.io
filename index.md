@@ -1,5 +1,5 @@
-# hello world
-Work on it ....
+# Mengyu's Blog
+
 
 1. [My Data Science Journey](blog 1 My Data Science Journey.pdf)
 1. [Survivorship bias & Simpson's paradox](blog 2 Survivorship bias & Simpson's paradox.pdf)
