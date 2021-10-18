@@ -5,4 +5,5 @@
 1. [Survivorship bias & Simpson's paradox](blog 2 Survivorship bias & Simpson's paradox.pdf)
 1. [Next Steps for AI](blog 3 Next Steps for AI.pdf)
 1. [Investing with Statistics](blog 4 Investing with Statistics.pdf)
-1. [AI in Hydroponics.pdf](AI in Hydroponics.pdf)
+1. [AI in Hydroponics](AI in Hydroponics.pdf)
+2. [Cryptocurrency Statistical Arbitrage for SDIRAs](Cryptocurrency Statistical Arbitrage for SDIRAs.pdf)
