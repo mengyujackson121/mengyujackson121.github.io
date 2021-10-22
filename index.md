@@ -7,3 +7,4 @@
 1. [Investing with Statistics](blog 4 Investing with Statistics.pdf)
 1. [AI in Hydroponics](AI in Hydroponics.pdf)
 2. [Cryptocurrency Statistical Arbitrage for SDIRAs](Cryptocurrency Statistical Arbitrage for SDIRAs.pdf)
+3. [The Right Tool For the Job](The Right Tool For the Job.pdf)
