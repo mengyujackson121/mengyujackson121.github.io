@@ -9,3 +9,4 @@
 2. [Cryptocurrency Statistical Arbitrage for SDIRAs](Cryptocurrency Statistical Arbitrage for SDIRAs.pdf)
 3. [The Right Tool For the Job](The Right Tool For the Job.pdf)
 4. [Person of Interest vs. Real Life](Person of Interest vs. Real Life.pdf)
+5. [Gemini Trading Update](Gemini Trading Update.pdf)
