@@ -10,3 +10,4 @@
 3. [The Right Tool For the Job](The Right Tool For the Job.pdf)
 4. [Person of Interest vs. Real Life](Person of Interest vs. Real Life.pdf)
 5. [Gemini Trading Update](Gemini Trading Update.pdf)
+6. [Gemini Trading Update 2.](Gemini Trading Update 2.pdf)
