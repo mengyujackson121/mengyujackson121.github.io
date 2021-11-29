@@ -12,3 +12,4 @@
 5. [Gemini Trading Update](Gemini Trading Update.pdf)
 6. [Gemini Trading Update 2.](Gemini Trading Update 2.pdf)
 7. [World Chess Championship Blog](World Chess Championship Blog.pdf)
+8. [NFL and Data Science](NFL and Data Science.pdf)
