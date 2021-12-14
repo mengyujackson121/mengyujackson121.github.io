@@ -14,3 +14,4 @@
 7. [World Chess Championship Blog](World Chess Championship Blog.pdf)
 8. [NFL and Data Science](NFL and Data Science.pdf)
 9. [Gemini Update 3](Gemini Update 3.pdf)
+10. [Data Science and Data Abuse](Data Science and Data Abuse.pdf)
