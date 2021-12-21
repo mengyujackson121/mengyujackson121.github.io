@@ -15,3 +15,4 @@
 8. [NFL and Data Science](NFL and Data Science.pdf)
 9. [Gemini Update 3](Gemini Update 3.pdf)
 10. [Data Science and Data Abuse](Data Science and Data Abuse.pdf)
+11. [Neural NLP Refresher](Neural NLP Refresher.pdf)
