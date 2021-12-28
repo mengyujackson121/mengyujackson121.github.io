@@ -16,3 +16,4 @@
 9. [Gemini Update 3](Gemini Update 3.pdf)
 10. [Data Science and Data Abuse](Data Science and Data Abuse.pdf)
 11. [Neural NLP Refresher](Neural NLP Refresher.pdf)
+12. [Neural NLP Deep Dive](Neural NLP Deep Dive.pdf)
